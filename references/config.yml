@@ -1,0 +1,4 @@
+gitea:
+  api_base_url: "http://192.168.1.234:9133//api/v1"
+  owner: "java_team"
+  token: "af5e8923a5d831e29ed1fb01edb86f1eef19b56a"
