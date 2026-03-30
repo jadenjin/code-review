@@ -1,4 +1,4 @@
-# Code Review Skills (代码审查之道)
+# Code Review Skills
 
 本项目致力于整理和分享\*\*代码审查（Code Review）\*\*过程中的核心技巧、检查清单以及行业最佳实践，旨在帮助开发者提升代码质量、统一团队风格并促进技术交流。
 
@@ -12,8 +12,8 @@
 
 ## 📂 目录结构
 
-- [SKILL.md](https://www.google.com/search?q=./SKILL.md): **核心技能手册**。涵盖了 CR 的关注点、沟通技巧及常见陷阱。
-- [references/](https://www.google.com/search?q=./references): **参考资料**。收集了国内外大厂（如 Google, Airbnb）的代码审查指南。
+- [SKILL.md](./SKILL.md): **核心技能手册**。涵盖了 CR 的关注点、沟通技巧及常见陷阱。
+- [references/](./references): **参考资料**。收集了国内外大厂（如 Google, Airbnb）的代码审查指南。
 
 ## 🚀 核心内容概览 (SKILL.md)
 
@@ -29,7 +29,7 @@
 
 1.  **个人学习**: 按照目录阅读文档，提升个人的代码审美和审查能力。
 2.  **团队规范**: 将本项目作为团队内部建立 CR 标准的参考基准。
-3.  **Checklist**: 在提交 Pull Request 或进行审查前，对照 [SKILL.md](https://www.google.com/search?q=./SKILL.md) 进行自查。
+3.  **Checklist**: 在提交 Pull Request 或进行审查前，对照 [SKILL.md](./SKILL.md) 进行自查。
 
 ## 🤝 贡献指南
 
@@ -43,4 +43,4 @@
 
 ## 📝 License
 
-本项目采用 [MIT License](https://www.google.com/search?q=LICENSE) 开源。
+本项目采用 [MIT License](https://opensource.org/licenses/MIT) 开源。
